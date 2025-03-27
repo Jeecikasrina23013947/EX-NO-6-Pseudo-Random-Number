@@ -1,6 +1,6 @@
 # EX-NO-6-Pseudo-Random-Number
 
-# AIM: 
+# AIM:  
 
 Implementation of Pseudorandom Number Generation Using Standard library
 ## Algorithm:
